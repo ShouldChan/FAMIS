@@ -1,0 +1,2 @@
+insert into tb_Asset(serial_number,name_Asset,type_Asset,specification,measurement,unit_price,amount,value,department_Using,addressCF,people_using,supplierID,Time_Purchase,YearService_month,Method_depreciation,Net_residual_rate,depreciation_Month,depreciation_tatol,Net_value,Method_add) 
+ select 'ZC2015041245454','资产1','1','','',0,0,0,'','','','','2014-06-21 00:00:00',60,'',20,20,20,20,'' union all select 'ZC2015041245455','资产2','1','','',0,0,0,'','','','','2014-06-21 00:00:00',60,'',20,20,20,20,'';

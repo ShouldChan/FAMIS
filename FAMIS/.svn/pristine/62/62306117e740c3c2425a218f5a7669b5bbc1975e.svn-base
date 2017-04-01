@@ -1,0 +1,147 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>布局固定宽度</title>
+    <link rel="stylesheet" type="text/css" href="../../Content/mainPage.css" />
+
+
+    <!--tabs加载-->
+    <link href="/LIB_easyUI/CleverTabs/context/themes/base/jquery-ui.css" type="text/css" rel="stylesheet" />
+    <script type="text/javascript" src="/Scripts/jquery-1.8.3.min.js"></script>
+    <script type="text/javascript" src="/LIB_easyUI/CleverTabs/scripts/jquery-ui.js"></script>
+    <script type="text/javascript" src="/LIB_easyUI/CleverTabs/scripts/jquery.cleverTabs.js"></script>
+    <script type="text/javascript" src="/LIB_easyUI/CleverTabs/scripts/jquery.contextMenu.js"></script>
+    <script type="text/javascript" src="../../Scripts/tabs/tas.js"></script>
+
+    <link rel="stylesheet" type="text/css" href="../../Content/LeftMenu.css" />
+
+
+    <script>
+        $(document).ready(function () {
+
+            // alert("我在这里！");
+
+
+
+            $(function () {
+                var h = $(document).height() - 30;
+                //h = $("#leftside").height;
+                $("#tabs").height(h); //关于这里我要说明一下，如果不设置高度的话，它默认并不是发100%占满屏幕的，所以我这里使用了计算的方式，初始化界面高度
+                tabs = $('#tabs').cleverTabs();
+                $(window).bind('resize', function () {
+                    tabs.resizePanelContainer();
+                });
+
+                tabs.add({
+                    url: '/Home/Test',
+                    label: '系统设置',
+                    //开启Tab后是否锁定(不允许关闭，默认: false)
+                    lock: false
+                });
+                $('input[type="button"]').button();
+            });
+
+        });
+
+        function addTab(url, name) {
+            //$("#tabs").height($("#leftside").height());
+            tabs.add({
+                url: url,
+                label: name,
+                lock: false
+            });
+        }
+        function goNewPage(url, name) {
+            //self.parent.frames["mainFrame"].addTab(url, name);
+            addTab(url, name);
+            // alert(2);
+        }
+        function tabCloseEven() {
+
+            $('#tabs').menu({
+                onClick: function (item) {
+                    closeTab(item.id);
+                }
+            });
+
+            return false;
+        }
+
+    </script>
+    <style type="text/css">
+        <!--
+        #navcontainer ul {
+            padding-left: 0;
+            margin-left: 0;
+            background-color: #036;
+            color: White;
+            float: left;
+            width: 100%;
+            font-family: arial, helvetica, sans-serif;
+        }
+
+            #navcontainer ul li {
+                display: inline;
+            }
+
+                #navcontainer ul li a {
+                    padding: 0.2em 1em;
+                    background-color: #036;
+                    color: White;
+                    text-decoration: none;
+                    float: left;
+                    border-right: 1px solid #fff;
+                }
+
+                    #navcontainer ul li a:hover {
+                        background-color: #369;
+                        color: #fff;
+                    }
+        -->
+    </style>
+</head>
+<body>
+    <div id="navcontainerr">
+        <div id="navcontainer">
+            <div id="top_layout_left">
+                <img src="/images/layout_top/baibao_logo.png" height="40" width="40">
+                <span style="font-size:28px; font-family:'Microsoft Himalaya';height:45px ;color:white;font-weight:bolder;">固定资产管理系统</span>
+            </div>
+            <div id="navcontainer">
+                <a href="/Login/Login"><span style="color:white; margin-right:20px; height:45px;width:45px ;font-size:28px;">退出</span></a>
+            </div>
+        </div>
+        <div id="mainBody">
+            <div id="navcontainer" class="navcontainer">
+                <!-- 代码部分begin -->
+                <div id="firstpane" class="menu_list">
+
+                    <div style="display:block" class="navcontainer">
+                        <a onclick="goNewPage('/SysSetting/Rule','编号规则');">编号规则</a>
+                        <a onclick="goNewPage('/Asset/collar','资产领用');">基本信息</a>
+                        <a onclick="goNewPage('/Asset/allocation','资产调拨');"></a>
+                        <a onclick="goNewPage('/Asset/reduction','资产减少');">资产减少</a>
+                    </div>
+
+                    <script type="text/javascript" src="../../Scripts/menu/LeftMenu.js"></script>
+                </div>
+            </div>
+            <div id="rightside">
+                <div id="tabs" style="overflow:hidden; padding-top:0px;width:100%; height:100%;">
+                    <ul></ul>
+
+                </div>
+            </div>
+        </div>
+
+        <div id="footer">
+            <h2 style="font-size:14px"> © 2018-2017 ADA 版权所有</h2>
+        </div>
+    </div>
+</body>
+</html>

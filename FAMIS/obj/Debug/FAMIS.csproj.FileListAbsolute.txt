@@ -1,0 +1,307 @@
+E:\WorkSpace_Project\CODE\famis\FAMIS\obj\Debug\FAMIS.csprojResolveAssemblyReference.cache
+E:\WorkSpace_Project\CODE\famis\FAMIS\bin\FAMIS.dll.config
+E:\WorkSpace_Project\CODE\famis\FAMIS\bin\FAMIS.dll
+E:\WorkSpace_Project\CODE\famis\FAMIS\bin\FAMIS.pdb
+E:\WorkSpace_Project\CODE\famis\FAMIS\bin\EntityFramework.dll
+E:\WorkSpace_Project\CODE\famis\FAMIS\bin\EntityFramework.SqlServer.dll
+E:\WorkSpace_Project\CODE\famis\FAMIS\bin\System.ComponentModel.DataAnnotations.dll
+E:\WorkSpace_Project\CODE\famis\FAMIS\bin\System.Configuration.dll
+E:\WorkSpace_Project\CODE\famis\FAMIS\bin\System.Web.Helpers.dll
+E:\WorkSpace_Project\CODE\famis\FAMIS\bin\System.Web.Mvc.dll
+E:\WorkSpace_Project\CODE\famis\FAMIS\bin\System.Web.Razor.dll
+E:\WorkSpace_Project\CODE\famis\FAMIS\bin\System.Web.Webpages.Deployment.dll
+E:\WorkSpace_Project\CODE\famis\FAMIS\bin\System.Web.Webpages.dll
+E:\WorkSpace_Project\CODE\famis\FAMIS\bin\System.Web.Webpages.Razor.dll
+E:\WorkSpace_Project\CODE\famis\FAMIS\bin\System.Xml.dll
+E:\WorkSpace_Project\CODE\famis\FAMIS\bin\System.Xml.Linq.dll
+E:\WorkSpace_Project\CODE\famis\FAMIS\bin\EntityFramework.xml
+E:\WorkSpace_Project\CODE\famis\FAMIS\bin\EntityFramework.SqlServer.xml
+E:\WorkSpace_Project\CODE\famis\FAMIS\bin\System.Web.Razor.xml
+E:\WorkSpace_Project\CODE\famis\FAMIS\bin\System.Web.Webpages.xml
+E:\WorkSpace_Project\CODE\famis\FAMIS\bin\System.Web.Webpages.Deployment.xml
+E:\WorkSpace_Project\CODE\famis\FAMIS\bin\System.Web.Webpages.Razor.xml
+E:\WorkSpace_Project\CODE\famis\FAMIS\bin\System.Web.Helpers.xml
+E:\WorkSpace_Project\CODE\famis\FAMIS\bin\System.Web.Mvc.xml
+E:\WorkSpace_Project\CODE\famis\FAMIS\bin\zh-Hans\System.Web.Razor.resources.dll
+E:\WorkSpace_Project\CODE\famis\FAMIS\bin\zh-Hans\System.Web.Webpages.resources.dll
+E:\WorkSpace_Project\CODE\famis\FAMIS\bin\zh-Hans\System.Web.Webpages.Deployment.resources.dll
+E:\WorkSpace_Project\CODE\famis\FAMIS\bin\zh-Hans\System.Web.Webpages.Razor.resources.dll
+E:\WorkSpace_Project\CODE\famis\FAMIS\bin\zh-Hans\System.Web.Helpers.resources.dll
+E:\WorkSpace_Project\CODE\famis\FAMIS\bin\zh-Hans\System.Web.Mvc.resources.dll
+E:\WorkSpace_Project\CODE\famis\FAMIS\obj\Debug\FAMIS.dll
+E:\WorkSpace_Project\CODE\famis\FAMIS\obj\Debug\FAMIS.pdb
+C:\Users\Administrator\Documents\Tencent Files\793192086\FileRecv\RUN_FAMIS_2016年6月22日172621\FAMIS\FAMIS\bin\FAMIS.dll.config
+C:\Users\Administrator\Documents\Tencent Files\793192086\FileRecv\RUN_FAMIS_2016年6月22日172621\FAMIS\FAMIS\bin\FAMIS.dll
+C:\Users\Administrator\Documents\Tencent Files\793192086\FileRecv\RUN_FAMIS_2016年6月22日172621\FAMIS\FAMIS\bin\FAMIS.pdb
+C:\Users\Administrator\Documents\Tencent Files\793192086\FileRecv\RUN_FAMIS_2016年6月22日172621\FAMIS\FAMIS\bin\EntityFramework.dll
+C:\Users\Administrator\Documents\Tencent Files\793192086\FileRecv\RUN_FAMIS_2016年6月22日172621\FAMIS\FAMIS\bin\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Documents\Tencent Files\793192086\FileRecv\RUN_FAMIS_2016年6月22日172621\FAMIS\FAMIS\bin\System.ComponentModel.DataAnnotations.dll
+C:\Users\Administrator\Documents\Tencent Files\793192086\FileRecv\RUN_FAMIS_2016年6月22日172621\FAMIS\FAMIS\bin\System.Configuration.dll
+C:\Users\Administrator\Documents\Tencent Files\793192086\FileRecv\RUN_FAMIS_2016年6月22日172621\FAMIS\FAMIS\bin\System.Web.Helpers.dll
+C:\Users\Administrator\Documents\Tencent Files\793192086\FileRecv\RUN_FAMIS_2016年6月22日172621\FAMIS\FAMIS\bin\System.Web.Mvc.dll
+C:\Users\Administrator\Documents\Tencent Files\793192086\FileRecv\RUN_FAMIS_2016年6月22日172621\FAMIS\FAMIS\bin\System.Web.Razor.dll
+C:\Users\Administrator\Documents\Tencent Files\793192086\FileRecv\RUN_FAMIS_2016年6月22日172621\FAMIS\FAMIS\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Administrator\Documents\Tencent Files\793192086\FileRecv\RUN_FAMIS_2016年6月22日172621\FAMIS\FAMIS\bin\System.Web.Webpages.dll
+C:\Users\Administrator\Documents\Tencent Files\793192086\FileRecv\RUN_FAMIS_2016年6月22日172621\FAMIS\FAMIS\bin\System.Web.Webpages.Razor.dll
+C:\Users\Administrator\Documents\Tencent Files\793192086\FileRecv\RUN_FAMIS_2016年6月22日172621\FAMIS\FAMIS\bin\System.Xml.dll
+C:\Users\Administrator\Documents\Tencent Files\793192086\FileRecv\RUN_FAMIS_2016年6月22日172621\FAMIS\FAMIS\bin\System.Xml.Linq.dll
+C:\Users\Administrator\Documents\Tencent Files\793192086\FileRecv\RUN_FAMIS_2016年6月22日172621\FAMIS\FAMIS\bin\EntityFramework.xml
+C:\Users\Administrator\Documents\Tencent Files\793192086\FileRecv\RUN_FAMIS_2016年6月22日172621\FAMIS\FAMIS\bin\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Documents\Tencent Files\793192086\FileRecv\RUN_FAMIS_2016年6月22日172621\FAMIS\FAMIS\bin\System.Web.Razor.xml
+C:\Users\Administrator\Documents\Tencent Files\793192086\FileRecv\RUN_FAMIS_2016年6月22日172621\FAMIS\FAMIS\bin\System.Web.Webpages.xml
+C:\Users\Administrator\Documents\Tencent Files\793192086\FileRecv\RUN_FAMIS_2016年6月22日172621\FAMIS\FAMIS\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Administrator\Documents\Tencent Files\793192086\FileRecv\RUN_FAMIS_2016年6月22日172621\FAMIS\FAMIS\bin\System.Web.Webpages.Razor.xml
+C:\Users\Administrator\Documents\Tencent Files\793192086\FileRecv\RUN_FAMIS_2016年6月22日172621\FAMIS\FAMIS\bin\System.Web.Helpers.xml
+C:\Users\Administrator\Documents\Tencent Files\793192086\FileRecv\RUN_FAMIS_2016年6月22日172621\FAMIS\FAMIS\bin\System.Web.Mvc.xml
+C:\Users\Administrator\Documents\Tencent Files\793192086\FileRecv\RUN_FAMIS_2016年6月22日172621\FAMIS\FAMIS\bin\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\Administrator\Documents\Tencent Files\793192086\FileRecv\RUN_FAMIS_2016年6月22日172621\FAMIS\FAMIS\bin\zh-Hans\System.Web.Webpages.resources.dll
+C:\Users\Administrator\Documents\Tencent Files\793192086\FileRecv\RUN_FAMIS_2016年6月22日172621\FAMIS\FAMIS\bin\zh-Hans\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Administrator\Documents\Tencent Files\793192086\FileRecv\RUN_FAMIS_2016年6月22日172621\FAMIS\FAMIS\bin\zh-Hans\System.Web.Webpages.Razor.resources.dll
+C:\Users\Administrator\Documents\Tencent Files\793192086\FileRecv\RUN_FAMIS_2016年6月22日172621\FAMIS\FAMIS\bin\zh-Hans\System.Web.Helpers.resources.dll
+C:\Users\Administrator\Documents\Tencent Files\793192086\FileRecv\RUN_FAMIS_2016年6月22日172621\FAMIS\FAMIS\bin\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\Administrator\Documents\Tencent Files\793192086\FileRecv\RUN_FAMIS_2016年6月22日172621\FAMIS\FAMIS\obj\Debug\FAMIS.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Tencent Files\793192086\FileRecv\RUN_FAMIS_2016年6月22日172621\FAMIS\FAMIS\obj\Debug\FAMIS.dll
+C:\Users\Administrator\Documents\Tencent Files\793192086\FileRecv\RUN_FAMIS_2016年6月22日172621\FAMIS\FAMIS\obj\Debug\FAMIS.pdb
+D:\jhh\newFamis\FAMIS\FAMIS\bin\FAMIS.dll.config
+D:\jhh\newFamis\FAMIS\FAMIS\bin\FAMIS.dll
+D:\jhh\newFamis\FAMIS\FAMIS\bin\FAMIS.pdb
+D:\jhh\newFamis\FAMIS\FAMIS\bin\EntityFramework.dll
+D:\jhh\newFamis\FAMIS\FAMIS\bin\EntityFramework.SqlServer.dll
+D:\jhh\newFamis\FAMIS\FAMIS\bin\System.ComponentModel.DataAnnotations.dll
+D:\jhh\newFamis\FAMIS\FAMIS\bin\System.Configuration.dll
+D:\jhh\newFamis\FAMIS\FAMIS\bin\System.Web.Helpers.dll
+D:\jhh\newFamis\FAMIS\FAMIS\bin\System.Web.Mvc.dll
+D:\jhh\newFamis\FAMIS\FAMIS\bin\System.Web.Razor.dll
+D:\jhh\newFamis\FAMIS\FAMIS\bin\System.Web.Webpages.Deployment.dll
+D:\jhh\newFamis\FAMIS\FAMIS\bin\System.Web.Webpages.dll
+D:\jhh\newFamis\FAMIS\FAMIS\bin\System.Web.Webpages.Razor.dll
+D:\jhh\newFamis\FAMIS\FAMIS\bin\System.Xml.dll
+D:\jhh\newFamis\FAMIS\FAMIS\bin\System.Xml.Linq.dll
+D:\jhh\newFamis\FAMIS\FAMIS\bin\EntityFramework.xml
+D:\jhh\newFamis\FAMIS\FAMIS\bin\EntityFramework.SqlServer.xml
+D:\jhh\newFamis\FAMIS\FAMIS\bin\System.Web.Razor.xml
+D:\jhh\newFamis\FAMIS\FAMIS\bin\System.Web.Webpages.xml
+D:\jhh\newFamis\FAMIS\FAMIS\bin\System.Web.Webpages.Deployment.xml
+D:\jhh\newFamis\FAMIS\FAMIS\bin\System.Web.Webpages.Razor.xml
+D:\jhh\newFamis\FAMIS\FAMIS\bin\System.Web.Helpers.xml
+D:\jhh\newFamis\FAMIS\FAMIS\bin\System.Web.Mvc.xml
+D:\jhh\newFamis\FAMIS\FAMIS\bin\zh-Hans\System.Web.Razor.resources.dll
+D:\jhh\newFamis\FAMIS\FAMIS\bin\zh-Hans\System.Web.Webpages.resources.dll
+D:\jhh\newFamis\FAMIS\FAMIS\bin\zh-Hans\System.Web.Webpages.Deployment.resources.dll
+D:\jhh\newFamis\FAMIS\FAMIS\bin\zh-Hans\System.Web.Webpages.Razor.resources.dll
+D:\jhh\newFamis\FAMIS\FAMIS\bin\zh-Hans\System.Web.Helpers.resources.dll
+D:\jhh\newFamis\FAMIS\FAMIS\bin\zh-Hans\System.Web.Mvc.resources.dll
+D:\jhh\newFamis\FAMIS\FAMIS\obj\Debug\FAMIS.dll
+D:\jhh\newFamis\FAMIS\FAMIS\obj\Debug\FAMIS.pdb
+D:\jhh\newFamis\FAMIS\FAMIS\obj\Debug\FAMIS.csprojResolveAssemblyReference.cache
+D:\jhh\GDZC\FAMIS6.24\FAMIS\FAMIS\bin\FAMIS.dll.config
+D:\jhh\GDZC\FAMIS6.24\FAMIS\FAMIS\bin\FAMIS.dll
+D:\jhh\GDZC\FAMIS6.24\FAMIS\FAMIS\bin\FAMIS.pdb
+D:\jhh\GDZC\FAMIS6.24\FAMIS\FAMIS\bin\EntityFramework.dll
+D:\jhh\GDZC\FAMIS6.24\FAMIS\FAMIS\bin\EntityFramework.SqlServer.dll
+D:\jhh\GDZC\FAMIS6.24\FAMIS\FAMIS\bin\System.ComponentModel.DataAnnotations.dll
+D:\jhh\GDZC\FAMIS6.24\FAMIS\FAMIS\bin\System.Configuration.dll
+D:\jhh\GDZC\FAMIS6.24\FAMIS\FAMIS\bin\System.Web.Helpers.dll
+D:\jhh\GDZC\FAMIS6.24\FAMIS\FAMIS\bin\System.Web.Mvc.dll
+D:\jhh\GDZC\FAMIS6.24\FAMIS\FAMIS\bin\System.Web.Razor.dll
+D:\jhh\GDZC\FAMIS6.24\FAMIS\FAMIS\bin\System.Web.Webpages.Deployment.dll
+D:\jhh\GDZC\FAMIS6.24\FAMIS\FAMIS\bin\System.Web.Webpages.dll
+D:\jhh\GDZC\FAMIS6.24\FAMIS\FAMIS\bin\System.Web.Webpages.Razor.dll
+D:\jhh\GDZC\FAMIS6.24\FAMIS\FAMIS\bin\System.Xml.dll
+D:\jhh\GDZC\FAMIS6.24\FAMIS\FAMIS\bin\System.Xml.Linq.dll
+D:\jhh\GDZC\FAMIS6.24\FAMIS\FAMIS\bin\EntityFramework.xml
+D:\jhh\GDZC\FAMIS6.24\FAMIS\FAMIS\bin\EntityFramework.SqlServer.xml
+D:\jhh\GDZC\FAMIS6.24\FAMIS\FAMIS\bin\System.Web.Razor.xml
+D:\jhh\GDZC\FAMIS6.24\FAMIS\FAMIS\bin\System.Web.Webpages.xml
+D:\jhh\GDZC\FAMIS6.24\FAMIS\FAMIS\bin\System.Web.Webpages.Deployment.xml
+D:\jhh\GDZC\FAMIS6.24\FAMIS\FAMIS\bin\System.Web.Webpages.Razor.xml
+D:\jhh\GDZC\FAMIS6.24\FAMIS\FAMIS\bin\System.Web.Helpers.xml
+D:\jhh\GDZC\FAMIS6.24\FAMIS\FAMIS\bin\System.Web.Mvc.xml
+D:\jhh\GDZC\FAMIS6.24\FAMIS\FAMIS\bin\zh-Hans\System.Web.Razor.resources.dll
+D:\jhh\GDZC\FAMIS6.24\FAMIS\FAMIS\bin\zh-Hans\System.Web.Webpages.resources.dll
+D:\jhh\GDZC\FAMIS6.24\FAMIS\FAMIS\bin\zh-Hans\System.Web.Webpages.Deployment.resources.dll
+D:\jhh\GDZC\FAMIS6.24\FAMIS\FAMIS\bin\zh-Hans\System.Web.Webpages.Razor.resources.dll
+D:\jhh\GDZC\FAMIS6.24\FAMIS\FAMIS\bin\zh-Hans\System.Web.Helpers.resources.dll
+D:\jhh\GDZC\FAMIS6.24\FAMIS\FAMIS\bin\zh-Hans\System.Web.Mvc.resources.dll
+D:\jhh\GDZC\FAMIS6.24\FAMIS\FAMIS\obj\Debug\FAMIS.dll
+D:\jhh\GDZC\FAMIS6.24\FAMIS\FAMIS\obj\Debug\FAMIS.pdb
+D:\jhh\GDZC\FAMIS6.24\FAMIS\FAMIS\obj\Debug\FAMIS.csprojResolveAssemblyReference.cache
+D:\jhh\GDZC\FAMIS6.24\FAMIS\FAMIS\bin\ICSharpCode.SharpZipLib.dll
+D:\jhh\GDZC\FAMIS6.24\FAMIS\FAMIS\bin\NPOI.dll
+D:\jhh\GDZC\FAMIS6.24\FAMIS\FAMIS\bin\NPOI.OOXML.dll
+D:\jhh\GDZC\FAMIS6.24\FAMIS\FAMIS\bin\NPOI.OpenXml4Net.dll
+D:\jhh\GDZC\FAMIS6.24\FAMIS\FAMIS\bin\NPOI.OpenXmlFormats.dll
+D:\jhh\GDZC\FAMIS6.24\FAMIS\FAMIS\bin\NPOI.xml
+D:\jhh\FAMIS7.5\FAMIS\bin\FAMIS.dll.config
+D:\jhh\FAMIS7.5\FAMIS\bin\FAMIS.dll
+D:\jhh\FAMIS7.5\FAMIS\bin\FAMIS.pdb
+D:\jhh\FAMIS7.5\FAMIS\bin\EntityFramework.dll
+D:\jhh\FAMIS7.5\FAMIS\bin\EntityFramework.SqlServer.dll
+D:\jhh\FAMIS7.5\FAMIS\bin\ICSharpCode.SharpZipLib.dll
+D:\jhh\FAMIS7.5\FAMIS\bin\NPOI.dll
+D:\jhh\FAMIS7.5\FAMIS\bin\NPOI.OOXML.dll
+D:\jhh\FAMIS7.5\FAMIS\bin\NPOI.OpenXml4Net.dll
+D:\jhh\FAMIS7.5\FAMIS\bin\NPOI.OpenXmlFormats.dll
+D:\jhh\FAMIS7.5\FAMIS\bin\System.ComponentModel.DataAnnotations.dll
+D:\jhh\FAMIS7.5\FAMIS\bin\System.Configuration.dll
+D:\jhh\FAMIS7.5\FAMIS\bin\System.Web.Helpers.dll
+D:\jhh\FAMIS7.5\FAMIS\bin\System.Web.Mvc.dll
+D:\jhh\FAMIS7.5\FAMIS\bin\System.Web.Razor.dll
+D:\jhh\FAMIS7.5\FAMIS\bin\System.Web.Webpages.Deployment.dll
+D:\jhh\FAMIS7.5\FAMIS\bin\System.Web.Webpages.dll
+D:\jhh\FAMIS7.5\FAMIS\bin\System.Web.Webpages.Razor.dll
+D:\jhh\FAMIS7.5\FAMIS\bin\System.Xml.dll
+D:\jhh\FAMIS7.5\FAMIS\bin\System.Xml.Linq.dll
+D:\jhh\FAMIS7.5\FAMIS\bin\EntityFramework.xml
+D:\jhh\FAMIS7.5\FAMIS\bin\EntityFramework.SqlServer.xml
+D:\jhh\FAMIS7.5\FAMIS\bin\NPOI.xml
+D:\jhh\FAMIS7.5\FAMIS\bin\System.Web.Razor.xml
+D:\jhh\FAMIS7.5\FAMIS\bin\System.Web.Webpages.xml
+D:\jhh\FAMIS7.5\FAMIS\bin\System.Web.Webpages.Deployment.xml
+D:\jhh\FAMIS7.5\FAMIS\bin\System.Web.Webpages.Razor.xml
+D:\jhh\FAMIS7.5\FAMIS\bin\System.Web.Helpers.xml
+D:\jhh\FAMIS7.5\FAMIS\bin\System.Web.Mvc.xml
+D:\jhh\FAMIS7.5\FAMIS\bin\zh-Hans\System.Web.Razor.resources.dll
+D:\jhh\FAMIS7.5\FAMIS\bin\zh-Hans\System.Web.Webpages.resources.dll
+D:\jhh\FAMIS7.5\FAMIS\bin\zh-Hans\System.Web.Webpages.Deployment.resources.dll
+D:\jhh\FAMIS7.5\FAMIS\bin\zh-Hans\System.Web.Webpages.Razor.resources.dll
+D:\jhh\FAMIS7.5\FAMIS\bin\zh-Hans\System.Web.Helpers.resources.dll
+D:\jhh\FAMIS7.5\FAMIS\bin\zh-Hans\System.Web.Mvc.resources.dll
+D:\jhh\FAMIS7.5\FAMIS\obj\Debug\FAMIS.csprojResolveAssemblyReference.cache
+D:\jhh\FAMIS7.5\FAMIS\obj\Debug\FAMIS.dll
+D:\jhh\FAMIS7.5\FAMIS\obj\Debug\FAMIS.pdb
+D:\jhh\GDZC\FAMIS7.5\FAMIS7.5\FAMIS\obj\Debug\FAMIS.csprojResolveAssemblyReference.cache
+D:\jhh\GDZC\FAMIS7.5\FAMIS7.5\FAMIS\obj\Debug\FAMIS.dll
+D:\jhh\GDZC\FAMIS7.5\FAMIS7.5\FAMIS\bin\FAMIS.dll.config
+D:\jhh\GDZC\FAMIS7.5\FAMIS7.5\FAMIS\bin\FAMIS.dll
+D:\jhh\GDZC\FAMIS7.5\FAMIS7.5\FAMIS\bin\FAMIS.pdb
+D:\jhh\GDZC\FAMIS7.5\FAMIS7.5\FAMIS\bin\EntityFramework.dll
+D:\jhh\GDZC\FAMIS7.5\FAMIS7.5\FAMIS\bin\EntityFramework.SqlServer.dll
+D:\jhh\GDZC\FAMIS7.5\FAMIS7.5\FAMIS\bin\ICSharpCode.SharpZipLib.dll
+D:\jhh\GDZC\FAMIS7.5\FAMIS7.5\FAMIS\bin\NPOI.dll
+D:\jhh\GDZC\FAMIS7.5\FAMIS7.5\FAMIS\bin\NPOI.OOXML.dll
+D:\jhh\GDZC\FAMIS7.5\FAMIS7.5\FAMIS\bin\NPOI.OpenXml4Net.dll
+D:\jhh\GDZC\FAMIS7.5\FAMIS7.5\FAMIS\bin\NPOI.OpenXmlFormats.dll
+D:\jhh\GDZC\FAMIS7.5\FAMIS7.5\FAMIS\bin\System.ComponentModel.DataAnnotations.dll
+D:\jhh\GDZC\FAMIS7.5\FAMIS7.5\FAMIS\bin\System.Configuration.dll
+D:\jhh\GDZC\FAMIS7.5\FAMIS7.5\FAMIS\bin\System.Web.Helpers.dll
+D:\jhh\GDZC\FAMIS7.5\FAMIS7.5\FAMIS\bin\System.Web.Mvc.dll
+D:\jhh\GDZC\FAMIS7.5\FAMIS7.5\FAMIS\bin\System.Web.Razor.dll
+D:\jhh\GDZC\FAMIS7.5\FAMIS7.5\FAMIS\bin\System.Web.Webpages.Deployment.dll
+D:\jhh\GDZC\FAMIS7.5\FAMIS7.5\FAMIS\bin\System.Web.Webpages.dll
+D:\jhh\GDZC\FAMIS7.5\FAMIS7.5\FAMIS\bin\System.Web.Webpages.Razor.dll
+D:\jhh\GDZC\FAMIS7.5\FAMIS7.5\FAMIS\bin\System.Xml.dll
+D:\jhh\GDZC\FAMIS7.5\FAMIS7.5\FAMIS\bin\System.Xml.Linq.dll
+D:\jhh\GDZC\FAMIS7.5\FAMIS7.5\FAMIS\bin\EntityFramework.xml
+D:\jhh\GDZC\FAMIS7.5\FAMIS7.5\FAMIS\bin\EntityFramework.SqlServer.xml
+D:\jhh\GDZC\FAMIS7.5\FAMIS7.5\FAMIS\bin\NPOI.xml
+D:\jhh\GDZC\FAMIS7.5\FAMIS7.5\FAMIS\bin\System.Web.Razor.xml
+D:\jhh\GDZC\FAMIS7.5\FAMIS7.5\FAMIS\bin\System.Web.Webpages.xml
+D:\jhh\GDZC\FAMIS7.5\FAMIS7.5\FAMIS\bin\System.Web.Webpages.Deployment.xml
+D:\jhh\GDZC\FAMIS7.5\FAMIS7.5\FAMIS\bin\System.Web.Webpages.Razor.xml
+D:\jhh\GDZC\FAMIS7.5\FAMIS7.5\FAMIS\bin\System.Web.Helpers.xml
+D:\jhh\GDZC\FAMIS7.5\FAMIS7.5\FAMIS\bin\System.Web.Mvc.xml
+D:\jhh\GDZC\FAMIS7.5\FAMIS7.5\FAMIS\bin\zh-Hans\System.Web.Razor.resources.dll
+D:\jhh\GDZC\FAMIS7.5\FAMIS7.5\FAMIS\bin\zh-Hans\System.Web.Webpages.resources.dll
+D:\jhh\GDZC\FAMIS7.5\FAMIS7.5\FAMIS\bin\zh-Hans\System.Web.Webpages.Deployment.resources.dll
+D:\jhh\GDZC\FAMIS7.5\FAMIS7.5\FAMIS\bin\zh-Hans\System.Web.Webpages.Razor.resources.dll
+D:\jhh\GDZC\FAMIS7.5\FAMIS7.5\FAMIS\bin\zh-Hans\System.Web.Helpers.resources.dll
+D:\jhh\GDZC\FAMIS7.5\FAMIS7.5\FAMIS\bin\zh-Hans\System.Web.Mvc.resources.dll
+D:\jhh\GDZC\FAMIS7.5\FAMIS7.5\FAMIS\obj\Debug\FAMIS.pdb
+D:\jhh\FAMIS_Current_Version\FAMIS\bin\FAMIS.dll.config
+D:\jhh\FAMIS_Current_Version\FAMIS\bin\FAMIS.dll
+D:\jhh\FAMIS_Current_Version\FAMIS\bin\FAMIS.pdb
+D:\jhh\FAMIS_Current_Version\FAMIS\bin\EntityFramework.dll
+D:\jhh\FAMIS_Current_Version\FAMIS\bin\EntityFramework.SqlServer.dll
+D:\jhh\FAMIS_Current_Version\FAMIS\bin\ICSharpCode.SharpZipLib.dll
+D:\jhh\FAMIS_Current_Version\FAMIS\bin\NPOI.dll
+D:\jhh\FAMIS_Current_Version\FAMIS\bin\NPOI.OOXML.dll
+D:\jhh\FAMIS_Current_Version\FAMIS\bin\NPOI.OpenXml4Net.dll
+D:\jhh\FAMIS_Current_Version\FAMIS\bin\NPOI.OpenXmlFormats.dll
+D:\jhh\FAMIS_Current_Version\FAMIS\bin\System.ComponentModel.DataAnnotations.dll
+D:\jhh\FAMIS_Current_Version\FAMIS\bin\System.Configuration.dll
+D:\jhh\FAMIS_Current_Version\FAMIS\bin\System.Web.Helpers.dll
+D:\jhh\FAMIS_Current_Version\FAMIS\bin\System.Web.Mvc.dll
+D:\jhh\FAMIS_Current_Version\FAMIS\bin\System.Web.Razor.dll
+D:\jhh\FAMIS_Current_Version\FAMIS\bin\System.Web.Webpages.Deployment.dll
+D:\jhh\FAMIS_Current_Version\FAMIS\bin\System.Web.Webpages.dll
+D:\jhh\FAMIS_Current_Version\FAMIS\bin\System.Web.Webpages.Razor.dll
+D:\jhh\FAMIS_Current_Version\FAMIS\bin\System.Xml.dll
+D:\jhh\FAMIS_Current_Version\FAMIS\bin\System.Xml.Linq.dll
+D:\jhh\FAMIS_Current_Version\FAMIS\bin\EntityFramework.xml
+D:\jhh\FAMIS_Current_Version\FAMIS\bin\EntityFramework.SqlServer.xml
+D:\jhh\FAMIS_Current_Version\FAMIS\bin\NPOI.xml
+D:\jhh\FAMIS_Current_Version\FAMIS\bin\System.Web.Razor.xml
+D:\jhh\FAMIS_Current_Version\FAMIS\bin\System.Web.Webpages.xml
+D:\jhh\FAMIS_Current_Version\FAMIS\bin\System.Web.Webpages.Deployment.xml
+D:\jhh\FAMIS_Current_Version\FAMIS\bin\System.Web.Webpages.Razor.xml
+D:\jhh\FAMIS_Current_Version\FAMIS\bin\System.Web.Helpers.xml
+D:\jhh\FAMIS_Current_Version\FAMIS\bin\System.Web.Mvc.xml
+D:\jhh\FAMIS_Current_Version\FAMIS\bin\zh-Hans\System.Web.Razor.resources.dll
+D:\jhh\FAMIS_Current_Version\FAMIS\bin\zh-Hans\System.Web.Webpages.resources.dll
+D:\jhh\FAMIS_Current_Version\FAMIS\bin\zh-Hans\System.Web.Webpages.Deployment.resources.dll
+D:\jhh\FAMIS_Current_Version\FAMIS\bin\zh-Hans\System.Web.Webpages.Razor.resources.dll
+D:\jhh\FAMIS_Current_Version\FAMIS\bin\zh-Hans\System.Web.Helpers.resources.dll
+D:\jhh\FAMIS_Current_Version\FAMIS\bin\zh-Hans\System.Web.Mvc.resources.dll
+D:\jhh\FAMIS_Current_Version\FAMIS\obj\Debug\FAMIS.csprojResolveAssemblyReference.cache
+D:\jhh\FAMIS_Current_Version\FAMIS\obj\Debug\FAMIS.dll
+D:\jhh\FAMIS_Current_Version\FAMIS\obj\Debug\FAMIS.pdb
+D:\jhh\GDZC\FAMIS6.24\FAMIS_Current_Version\FAMIS_Current_Version\FAMIS\bin\FAMIS.dll.config
+D:\jhh\GDZC\FAMIS6.24\FAMIS_Current_Version\FAMIS_Current_Version\FAMIS\bin\FAMIS.dll
+D:\jhh\GDZC\FAMIS6.24\FAMIS_Current_Version\FAMIS_Current_Version\FAMIS\bin\FAMIS.pdb
+D:\jhh\GDZC\FAMIS6.24\FAMIS_Current_Version\FAMIS_Current_Version\FAMIS\bin\EntityFramework.dll
+D:\jhh\GDZC\FAMIS6.24\FAMIS_Current_Version\FAMIS_Current_Version\FAMIS\bin\EntityFramework.SqlServer.dll
+D:\jhh\GDZC\FAMIS6.24\FAMIS_Current_Version\FAMIS_Current_Version\FAMIS\bin\ICSharpCode.SharpZipLib.dll
+D:\jhh\GDZC\FAMIS6.24\FAMIS_Current_Version\FAMIS_Current_Version\FAMIS\bin\NPOI.dll
+D:\jhh\GDZC\FAMIS6.24\FAMIS_Current_Version\FAMIS_Current_Version\FAMIS\bin\NPOI.OOXML.dll
+D:\jhh\GDZC\FAMIS6.24\FAMIS_Current_Version\FAMIS_Current_Version\FAMIS\bin\NPOI.OpenXml4Net.dll
+D:\jhh\GDZC\FAMIS6.24\FAMIS_Current_Version\FAMIS_Current_Version\FAMIS\bin\NPOI.OpenXmlFormats.dll
+D:\jhh\GDZC\FAMIS6.24\FAMIS_Current_Version\FAMIS_Current_Version\FAMIS\bin\System.ComponentModel.DataAnnotations.dll
+D:\jhh\GDZC\FAMIS6.24\FAMIS_Current_Version\FAMIS_Current_Version\FAMIS\bin\System.Configuration.dll
+D:\jhh\GDZC\FAMIS6.24\FAMIS_Current_Version\FAMIS_Current_Version\FAMIS\bin\System.Web.Helpers.dll
+D:\jhh\GDZC\FAMIS6.24\FAMIS_Current_Version\FAMIS_Current_Version\FAMIS\bin\System.Web.Mvc.dll
+D:\jhh\GDZC\FAMIS6.24\FAMIS_Current_Version\FAMIS_Current_Version\FAMIS\bin\System.Web.Razor.dll
+D:\jhh\GDZC\FAMIS6.24\FAMIS_Current_Version\FAMIS_Current_Version\FAMIS\bin\System.Web.Webpages.Deployment.dll
+D:\jhh\GDZC\FAMIS6.24\FAMIS_Current_Version\FAMIS_Current_Version\FAMIS\bin\System.Web.Webpages.dll
+D:\jhh\GDZC\FAMIS6.24\FAMIS_Current_Version\FAMIS_Current_Version\FAMIS\bin\System.Web.Webpages.Razor.dll
+D:\jhh\GDZC\FAMIS6.24\FAMIS_Current_Version\FAMIS_Current_Version\FAMIS\bin\System.Xml.dll
+D:\jhh\GDZC\FAMIS6.24\FAMIS_Current_Version\FAMIS_Current_Version\FAMIS\bin\System.Xml.Linq.dll
+D:\jhh\GDZC\FAMIS6.24\FAMIS_Current_Version\FAMIS_Current_Version\FAMIS\bin\EntityFramework.xml
+D:\jhh\GDZC\FAMIS6.24\FAMIS_Current_Version\FAMIS_Current_Version\FAMIS\bin\EntityFramework.SqlServer.xml
+D:\jhh\GDZC\FAMIS6.24\FAMIS_Current_Version\FAMIS_Current_Version\FAMIS\bin\NPOI.xml
+D:\jhh\GDZC\FAMIS6.24\FAMIS_Current_Version\FAMIS_Current_Version\FAMIS\bin\System.Web.Razor.xml
+D:\jhh\GDZC\FAMIS6.24\FAMIS_Current_Version\FAMIS_Current_Version\FAMIS\bin\System.Web.Webpages.xml
+D:\jhh\GDZC\FAMIS6.24\FAMIS_Current_Version\FAMIS_Current_Version\FAMIS\bin\System.Web.Webpages.Deployment.xml
+D:\jhh\GDZC\FAMIS6.24\FAMIS_Current_Version\FAMIS_Current_Version\FAMIS\bin\System.Web.Webpages.Razor.xml
+D:\jhh\GDZC\FAMIS6.24\FAMIS_Current_Version\FAMIS_Current_Version\FAMIS\bin\System.Web.Helpers.xml
+D:\jhh\GDZC\FAMIS6.24\FAMIS_Current_Version\FAMIS_Current_Version\FAMIS\bin\System.Web.Mvc.xml
+D:\jhh\GDZC\FAMIS6.24\FAMIS_Current_Version\FAMIS_Current_Version\FAMIS\bin\zh-Hans\System.Web.Razor.resources.dll
+D:\jhh\GDZC\FAMIS6.24\FAMIS_Current_Version\FAMIS_Current_Version\FAMIS\bin\zh-Hans\System.Web.Webpages.resources.dll
+D:\jhh\GDZC\FAMIS6.24\FAMIS_Current_Version\FAMIS_Current_Version\FAMIS\bin\zh-Hans\System.Web.Webpages.Deployment.resources.dll
+D:\jhh\GDZC\FAMIS6.24\FAMIS_Current_Version\FAMIS_Current_Version\FAMIS\bin\zh-Hans\System.Web.Webpages.Razor.resources.dll
+D:\jhh\GDZC\FAMIS6.24\FAMIS_Current_Version\FAMIS_Current_Version\FAMIS\bin\zh-Hans\System.Web.Helpers.resources.dll
+D:\jhh\GDZC\FAMIS6.24\FAMIS_Current_Version\FAMIS_Current_Version\FAMIS\bin\zh-Hans\System.Web.Mvc.resources.dll
+D:\jhh\GDZC\FAMIS6.24\FAMIS_Current_Version\FAMIS_Current_Version\FAMIS\obj\Debug\FAMIS.csprojResolveAssemblyReference.cache
+D:\jhh\GDZC\FAMIS6.24\FAMIS_Current_Version\FAMIS_Current_Version\FAMIS\obj\Debug\FAMIS.dll
+D:\jhh\GDZC\FAMIS6.24\FAMIS_Current_Version\FAMIS_Current_Version\FAMIS\obj\Debug\FAMIS.pdb
+D:\360Downloads\Software\FAMIS_Current_Version\FAMIS_Current_Version\FAMIS\bin\FAMIS.dll.config
+D:\360Downloads\Software\FAMIS_Current_Version\FAMIS_Current_Version\FAMIS\bin\FAMIS.dll
+D:\360Downloads\Software\FAMIS_Current_Version\FAMIS_Current_Version\FAMIS\bin\FAMIS.pdb
+D:\360Downloads\Software\FAMIS_Current_Version\FAMIS_Current_Version\FAMIS\bin\EntityFramework.xml
+D:\360Downloads\Software\FAMIS_Current_Version\FAMIS_Current_Version\FAMIS\bin\EntityFramework.SqlServer.xml
+D:\360Downloads\Software\FAMIS_Current_Version\FAMIS_Current_Version\FAMIS\bin\NPOI.xml
+D:\360Downloads\Software\FAMIS_Current_Version\FAMIS_Current_Version\FAMIS\bin\System.Web.Razor.xml
+D:\360Downloads\Software\FAMIS_Current_Version\FAMIS_Current_Version\FAMIS\bin\System.Web.Webpages.xml
+D:\360Downloads\Software\FAMIS_Current_Version\FAMIS_Current_Version\FAMIS\bin\System.Web.Webpages.Deployment.xml
+D:\360Downloads\Software\FAMIS_Current_Version\FAMIS_Current_Version\FAMIS\bin\System.Web.Webpages.Razor.xml
+D:\360Downloads\Software\FAMIS_Current_Version\FAMIS_Current_Version\FAMIS\bin\System.Web.Helpers.xml
+D:\360Downloads\Software\FAMIS_Current_Version\FAMIS_Current_Version\FAMIS\bin\System.Web.Mvc.xml
+D:\360Downloads\Software\FAMIS_Current_Version\FAMIS_Current_Version\FAMIS\bin\zh-Hans\System.Web.Razor.resources.dll
+D:\360Downloads\Software\FAMIS_Current_Version\FAMIS_Current_Version\FAMIS\bin\zh-Hans\System.Web.Webpages.resources.dll
+D:\360Downloads\Software\FAMIS_Current_Version\FAMIS_Current_Version\FAMIS\bin\zh-Hans\System.Web.Webpages.Deployment.resources.dll
+D:\360Downloads\Software\FAMIS_Current_Version\FAMIS_Current_Version\FAMIS\bin\zh-Hans\System.Web.Webpages.Razor.resources.dll
+D:\360Downloads\Software\FAMIS_Current_Version\FAMIS_Current_Version\FAMIS\bin\zh-Hans\System.Web.Helpers.resources.dll
+D:\360Downloads\Software\FAMIS_Current_Version\FAMIS_Current_Version\FAMIS\bin\zh-Hans\System.Web.Mvc.resources.dll
+D:\360Downloads\Software\FAMIS_Current_Version\FAMIS_Current_Version\FAMIS\obj\Debug\FAMIS.csprojResolveAssemblyReference.cache
+D:\360Downloads\Software\FAMIS_Current_Version\FAMIS_Current_Version\FAMIS\obj\Debug\FAMIS.dll
+D:\360Downloads\Software\FAMIS_Current_Version\FAMIS_Current_Version\FAMIS\obj\Debug\FAMIS.pdb
